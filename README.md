@@ -43,5 +43,9 @@ The Arbnb page is designed to achive the following goals.
 
 **PROJECT STRUCTURE**
 
+our role as FE engineer include buldign over all layout of Airbnb site according to forwarded high-level wireframe design.
+
+
+
 
 
