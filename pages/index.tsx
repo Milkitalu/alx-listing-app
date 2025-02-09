@@ -1,7 +1,7 @@
 import React from 'react';
 
-import Card from '../components/commons/Card';
-import Button from '../components/commons/Button';
+import Card from '../components/common/Card';
+import Button from '../components/common/Button';
 import { DEFAULT_IMAGE_URL } from '../constants';
 
 const Home: React.FC = () => {
